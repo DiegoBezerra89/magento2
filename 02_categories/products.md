@@ -5,7 +5,7 @@
 The category structure is lika an upside-down tree, with the root at the top.
 For example, here is category structure of Luma, our yoga-inspired athletic apparel company.
 
-![Category tree](/home/webjump-nb078/Documentos/curso/magento/magento2/02_categories/categoryTree.png "Category tree")
+![Category tree](./categoryTree.png "Category tree")
 
 Categories in Magento are managed in *Catalog > Categories*  
 Root categories are *"container"* categories that are associated with a particular store within a website.  
